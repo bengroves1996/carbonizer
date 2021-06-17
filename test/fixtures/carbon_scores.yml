@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  diet: 
+  transportation: MyString
+  integer: MyString
+
+two:
+  diet: 
+  transportation: MyString
+  integer: MyString

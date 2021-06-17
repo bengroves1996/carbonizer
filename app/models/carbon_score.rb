@@ -1,0 +1,3 @@
+class CarbonScore < ApplicationRecord
+    
+end
